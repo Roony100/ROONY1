@@ -1,1 +1,2 @@
 hello git, community this is my first repo
+my name is roony
